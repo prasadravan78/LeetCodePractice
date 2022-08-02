@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeDay1Program1", "LeetCode\LeetCodeDay1Program1.csproj", "{E892D581-23B1-4304-8F4D-6349E7AD848C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeDay1Program1", "LeetCodeDay1Program1\LeetCodeDay1Program1.csproj", "{E892D581-23B1-4304-8F4D-6349E7AD848C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeDay1Program2", "LeetCodeDay1Program2\LeetCodeDay1Program2.csproj", "{05AD65CD-1357-49D0-A855-7485AD3523EF}"
 EndProject
