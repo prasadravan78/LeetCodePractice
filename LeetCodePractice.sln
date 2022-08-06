@@ -11,9 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeDay2Program1", "Lee
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeDay2Program2", "LeetCodeDay2Program2\LeetCodeDay2Program2.csproj", "{B53DB8D3-E46E-4B40-86C7-CAD6AD10E07B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeDay5Program1", "LeetCodeDay5Program1\LeetCodeDay5Program1.csproj", "{04871458-82D6-4645-9FFB-D52705D3CD7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeDay5Program1", "LeetCodeDay5Program1\LeetCodeDay5Program1.csproj", "{04871458-82D6-4645-9FFB-D52705D3CD7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeDay5Program2", "LeetCodeDay5Program2\LeetCodeDay5Program2.csproj", "{980AD0A2-6909-44A9-ACFB-3860F2031F30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeDay5Program2", "LeetCodeDay5Program2\LeetCodeDay5Program2.csproj", "{980AD0A2-6909-44A9-ACFB-3860F2031F30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeDay6Program1", "LeetCodeDay6Program1\LeetCodeDay6Program1.csproj", "{B3AE16F0-6A6E-4F0E-86DB-5C31F9C81F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeDay6Program2", "LeetCodeDay6Program2\LeetCodeDay6Program2.csproj", "{C95C81BE-1D18-4C1F-B24B-6DABB7B4F16E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{980AD0A2-6909-44A9-ACFB-3860F2031F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{980AD0A2-6909-44A9-ACFB-3860F2031F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{980AD0A2-6909-44A9-ACFB-3860F2031F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3AE16F0-6A6E-4F0E-86DB-5C31F9C81F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AE16F0-6A6E-4F0E-86DB-5C31F9C81F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AE16F0-6A6E-4F0E-86DB-5C31F9C81F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AE16F0-6A6E-4F0E-86DB-5C31F9C81F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C95C81BE-1D18-4C1F-B24B-6DABB7B4F16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95C81BE-1D18-4C1F-B24B-6DABB7B4F16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95C81BE-1D18-4C1F-B24B-6DABB7B4F16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95C81BE-1D18-4C1F-B24B-6DABB7B4F16E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
